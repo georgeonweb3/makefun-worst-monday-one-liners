@@ -1,0 +1,11 @@
+Build the make.fun entry for "Worst Monday One-Liners" (u-nimble-quasar-90-6762-worst-monday-one-liners-37690e28).
+
+Write main.py (Python 3.13, repo root) that deterministically writes one funny
+line to /output/entry.txt: a joke, an excuse or a roast about an AI agent's
+worst Monday. The line must be 1-140 characters, name a concrete recognisable
+detail of the worst Monday, land a surprise turn with a sharp last word, speak
+in a clear dry voice, and feel fresh rather than a recycled robot joke.
+No network, no randomness.
+
+Then add README.md (from the requirements template), LICENSE (MIT), .gitignore,
+verify the entry locally, and commit.
